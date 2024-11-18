@@ -1,0 +1,272 @@
+.form{
+    text-align: center;
+}
+.cor {
+    background-color: rgb(208, 197, 255);
+ }
+ 
+ .tam{
+    height: 5%;
+    width: 5%;
+ }
+ 
+ .img {
+     border: 1px solid #dddddd;
+     border-radius: 4px;
+     padding: 5px;
+     width: 150px;
+   }
+ 
+ .med {
+     height: 20%;
+     width: 20%;
+ }
+ .cor2 {
+ 
+ color: rgb(37, 12, 8);
+ 
+ }
+ 
+ .med2 {
+     height: 30vw;
+     width: 100vw;
+ }
+ table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th, td {
+    border: 1px solid #ddd;
+    padding: 10px;
+    text-align: left;
+}
+
+th {
+    background-color: #333;
+    color: #fff;
+}
+
+tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
+
+	.container {
+		width: 80%;
+		margin: 40px auto;
+		text-align: center;
+	}
+	
+	.titulo {
+		font-size: 36px;
+		color: #333;
+	}
+	
+	.subtitulo {
+		font-size: 18px;
+		color: #666;
+	}
+
+    .diva {
+        font-family: Arial, sans-serif;
+        background-color: #f2f2f2;
+    }
+    
+    .container {
+        width: 80%;
+        margin: 40px auto;
+        background-color: #fff;
+        padding: 20px;
+        border: 1px solid #ddd;
+        border-radius: 10px;
+        box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    }
+    
+    .titulo {
+        font-size: 24px;
+        color: #333;
+        margin-bottom: 20px;
+    }
+    
+    .formulario {
+        margin-bottom: 20px;
+    }
+    
+    .label {
+        display: block;
+        margin-bottom: 10px;
+    }
+    
+    .input {
+        width: 100%;
+        height: 40px;
+        margin-bottom: 20px;
+        padding: 10px;
+        border: 1px solid #ccc;
+        border-radius: 5px;
+    }
+    
+    .textarea {
+        width: 100%;
+        height: 100px;
+        margin-bottom: 20px;
+        padding: 10px;
+        border: 1px solid #ccc;
+        border-radius: 5px;
+    }
+    
+    .botao {
+        background-color: #4CAF50;
+        color: #fff;
+        padding: 10px 20px;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+    }
+    
+    .botao:hover {
+        background-color: #3e8e41;
+    }
+
+    body {
+        background-color: #f2f2f2;
+    }
+    
+    .divas {
+        width: 80%;
+        margin: 40px auto;
+    }
+    
+    .titulo {
+        font-size: 36px;
+        color: #333;
+        margin-bottom: 20px;
+    }
+    
+    .divonicas{
+        font-size: 18px;
+        color: #666;
+        margin-bottom: 20px;
+    }
+    
+    .carousel {
+        width: 100%;
+        height: 500px;
+        margin-bottom: 20px;
+    }
+    
+    .carousel-inner {
+        width: 100%;
+        height: 100%;
+    }
+    
+    .carousel-item {
+        width: 100%;
+        height: 100%;
+        background-size: cover;
+        background-position: center;
+    }
+
+    .card {
+        width: 300px;
+        margin: 20px;
+        box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    }
+    
+    .card img {
+        width: 100%;
+        height: 200px;
+        object-fit: cover;
+    }
+    
+    .card-body {
+        padding: 20px;
+    }
+    
+    .card-title {
+        font-size: 24px;
+        margin-bottom: 10px;
+    }
+    
+    .card-text {
+        font-size: 18px;
+        margin-bottom: 20px;
+    }
+    
+    .form-group {
+        margin-bottom: 20px;
+    }
+    
+    .form-control {
+        width: 100%;
+        height: 40px;
+        padding: 10px;
+        border: 1px solid #ccc;
+        border-radius: 5px;
+    }
+    
+    .botao {
+        background-color: #4CAF50;
+        color: #fff;
+        padding: 10px 20px;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+    }
+    
+    .botao:hover {
+        background-color: #3e8e41;
+    }
+
+    body {
+        background-color: #f2f2f2;
+    }
+    
+    .maravilhosa {
+        width: 80%;
+        margin: 40px auto;
+    }
+    
+    .titulo {
+        font-size: 36px;
+        color: #333;
+        margin-bottom: 20px;
+    }
+    
+    .equipes {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+    
+    .membro {
+        width: 200px;
+        margin: 20px;
+        background-color: #fff;
+        padding: 20px;
+        border: 1px solid #ddd;
+        border-radius: 10px;
+        box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    }
+    
+    .foto {
+        width: 100%;
+        height: 200px;
+        object-fit: cover;
+        border-radius: 10px 10px 0 0;
+    }
+    
+    .nome {
+        font-size: 24px;
+        color: #333;
+        margin-bottom: 10px;
+    }
+    
+    .funcao {
+        font-size: 18px;
+        color: #666;
+        margin-bottom: 20px;
+    }
+    
+   
+    
